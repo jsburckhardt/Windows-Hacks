@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\VSCode]
+"Extended"=-
+
+[HKEY_CLASSES_ROOT\Directory\Shell\VSCode]
+"Extended"=-
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\VSCode]
+"Extended"=-

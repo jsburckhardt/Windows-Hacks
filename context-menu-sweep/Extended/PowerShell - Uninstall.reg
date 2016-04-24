@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\powershell]
+"Extended"=-
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\powershell]
+"Extended"=-
+
+[HKEY_CLASSES_ROOT\Directory\Shell\powershell]
+"Extended"=-

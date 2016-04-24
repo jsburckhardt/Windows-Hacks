@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\Mp3tagShell]
+"Extended"=-
+
+[HKEY_CLASSES_ROOT\Directory\shellex\ContextMenuHandlers\Mp3tagShell]
+"Extended"=-
